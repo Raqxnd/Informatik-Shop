@@ -1,0 +1,1 @@
+// leer, ich könnte ebenfalls die Buttons mit Javascript programmieren, allerdings dachte ich, dies ist nicht unbedingt nötig.
